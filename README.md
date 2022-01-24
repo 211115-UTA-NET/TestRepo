@@ -1,6 +1,7 @@
 Test Repo Rich was here!
 Kyler was here!
 Samantha was here!
+<<<<<<< HEAD
 
 
 
@@ -22,3 +23,13 @@ If I could turn back time
 If I could turn back time
 (If I could turn back time)
 If I could turn back time, ohh baby
+
+Rich was here again!
+Osaretin was here!
+
+This is still the main branch.
+
+
+
+Hi from Rich!
+
