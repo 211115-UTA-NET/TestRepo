@@ -1,7 +1,33 @@
 Test Repo Rich was here!
 Kyler was here!
 Samantha was here!
-<<<<<<< HEAD
+Rich was here again!
+
+Rich has switched this file to the second-branch.
+
+Melinda was here!
+
+Rich is a branch.
+
+Rich has switched this file to the second-branch.git add
+
+
+
+
+
+my mind is blowing
+
+According to all known laws
+of aviation,
+
+  
+there is no way a bee
+should be able to fly.
+
+  
+Its wings are too small to get
+its fat little body off the ground
+
 
 
 
@@ -32,4 +58,3 @@ This is still the main branch.
 
 
 Hi from Rich!
-
