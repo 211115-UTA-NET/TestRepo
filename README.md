@@ -30,6 +30,11 @@ If I could turn back time
 If I could turn back time
 (If I could turn back time)
 If I could turn back time, ohh baby
+<<<<<<< HEAD
+
+
+my mind is blowing
+=======
 >>>>>>> ac085665ee2c1370d2b9a882d740bf93fbdbe4a5
 According to all known laws
 of aviation,
